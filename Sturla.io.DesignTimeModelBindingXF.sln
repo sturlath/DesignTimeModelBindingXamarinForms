@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.29001.49
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sturla.io.DesignTimeModelBindingXF.Android", "Sturla.io.DesignTimeModelBindingXF\Sturla.io.DesignTimeModelBindingXF.Android\Sturla.io.DesignTimeModelBindingXF.Android.csproj", "{D9B51C14-FE94-4BED-9352-7B4CDFBE6A69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sturla.io.DesignTimeModelBindingXF", "Sturla.io.DesignTimeModelBindingXF\Sturla.io.DesignTimeModelBindingXF\Sturla.io.DesignTimeModelBindingXF.csproj", "{8660A206-7AA0-4396-8BEC-C5A811B24DD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sturla.io.DesignTimeModelBindingXF", "Sturla.io.DesignTimeModelBindingXF\Sturla.io.DesignTimeModelBindingXF\Sturla.io.DesignTimeModelBindingXF.csproj", "{8660A206-7AA0-4396-8BEC-C5A811B24DD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resources", "Resources\Resources.csproj", "{BA6D9B4D-6807-4686-8319-EC95DE255C29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +27,10 @@ Global
 		{8660A206-7AA0-4396-8BEC-C5A811B24DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8660A206-7AA0-4396-8BEC-C5A811B24DD3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8660A206-7AA0-4396-8BEC-C5A811B24DD3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{BA6D9B4D-6807-4686-8319-EC95DE255C29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA6D9B4D-6807-4686-8319-EC95DE255C29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA6D9B4D-6807-4686-8319-EC95DE255C29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA6D9B4D-6807-4686-8319-EC95DE255C29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
